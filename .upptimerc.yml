@@ -6,6 +6,10 @@ assignees: # Users to assign downtime issues (optional)
   - ivuorinen
 
 sites:
+  - name: ivuorinen.net
+    url: https://ivuorinen.net
+  - name: ivuorinen.com
+    url: https://ivuoeinen.com
   - name: antiprocess.net
     url: https://antiprocess.net
   - name: "demons: paimon"
@@ -16,6 +20,10 @@ sites:
       - 403
       - 404
     __dangerous__insecure: true
+  - name: masf.fi
+    url: https://masf.fi
+  - name: escobar.digital
+    url: https://escobar.digital
   - name: Google
     url: https://www.google.com
     icon: https://www.google.com/favicon.ico
