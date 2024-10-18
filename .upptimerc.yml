@@ -9,7 +9,7 @@ sites:
   - name: antiprocess.net
     url: https://antiprocess.net
   - name: "demons: paimon"
-    url: https://paimon.antiprocess.net
+    url: http://paimon.antiprocess.net
     __dangerous__insecure: true
   - name: Google
     url: https://www.google.com
@@ -27,7 +27,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: ivuorinen.github.io
+  cname: ivuorinen.net
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
