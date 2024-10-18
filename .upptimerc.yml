@@ -10,6 +10,11 @@ sites:
     url: https://antiprocess.net
   - name: "demons: paimon"
     url: http://paimon.antiprocess.net
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403
+      - 404
     __dangerous__insecure: true
   - name: Google
     url: https://www.google.com
