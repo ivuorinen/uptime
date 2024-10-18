@@ -1,16 +1,23 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: ivuorinen # Your GitHub organization or username, where this repository lives
+repo: uptime # The name of this repository
+
+assignees: # Users to assign downtime issues (optional)
+  - ivuorinen
 
 sites:
+  - name: antiprocess.net
+    url: https://antiprocess.net
+  - name: "demons: paimon"
+    url: https://paimon.antiprocess.net
+    __dangerous__insecure: true
   - name: Google
     url: https://www.google.com
+    icon: https://www.google.com/favicon.ico
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
   - name: IPv6 test
     url: forwardemail.net
     port: 80
@@ -20,8 +27,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  cname: ivuorinen.github.io
+  baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
