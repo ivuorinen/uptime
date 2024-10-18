@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/paimon.antiprocess.net.ico",
     "slug": "demons-paimon",
     "status": "up",
-    "uptime": "3.06%",
-    "uptimeDay": "3.06%",
-    "uptimeWeek": "3.06%",
-    "uptimeMonth": "3.06%",
-    "uptimeYear": "3.06%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 666,
     "timeDay": 666,
     "timeWeek": 666,
     "timeMonth": 666,
     "timeYear": 666,
-    "dailyMinutesDown": {
-      "2024-10-18": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Google",
