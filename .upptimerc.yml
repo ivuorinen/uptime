@@ -13,13 +13,9 @@ sites:
   - name: antiprocess.net
     url: https://antiprocess.net
   - name: "demons: paimon"
-    url: http://paimon.antiprocess.net
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 403
-      - 404
-    __dangerous__insecure: true
+    url: https://paimon.antiprocess.net
+  - name: "demons: vine"
+    url: https://vine.antiprocess.net
   - name: masf.fi
     url: https://masf.fi
   - name: escobar.digital
