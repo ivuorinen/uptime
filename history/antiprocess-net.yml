@@ -1,7 +1,7 @@
 url: https://antiprocess.net
-status: up
-code: 200
-responseTime: 8500
-lastUpdated: 2024-11-01T11:43:37.884Z
+status: down
+code: 503
+responseTime: 992
+lastUpdated: 2024-11-01T11:49:46.196Z
 startTime: 2024-10-18T06:59:14.004Z
 generator: Upptime <https://github.com/upptime/upptime>
