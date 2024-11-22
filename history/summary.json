@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ivuorinen.com.ico",
     "slug": "ivuorinen-com",
     "status": "up",
-    "uptime": "98.12%",
+    "uptime": "98.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.95%",
-    "uptimeYear": "98.12%",
+    "uptimeMonth": "98.03%",
+    "uptimeYear": "98.16%",
     "time": 1666,
     "timeDay": 543,
-    "timeWeek": 3418,
-    "timeMonth": 1338,
+    "timeWeek": 3164,
+    "timeMonth": 1392,
     "timeYear": 1666,
     "dailyMinutesDown": {
       "2024-11-01": 381,
@@ -48,15 +48,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/antiprocess.net.ico",
     "slug": "antiprocess-net",
     "status": "up",
-    "uptime": "98.38%",
+    "uptime": "98.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.23%",
-    "uptimeYear": "98.38%",
+    "uptimeMonth": "98.27%",
+    "uptimeYear": "98.40%",
     "time": 1311,
     "timeDay": 868,
     "timeWeek": 968,
-    "timeMonth": 1419,
+    "timeMonth": 1446,
     "timeYear": 1311,
     "dailyMinutesDown": {
       "2024-11-01": 331,
@@ -108,10 +108,10 @@
     "url": "https://masf.fi",
     "icon": "https://icons.duckduckgo.com/ip3/masf.fi.ico",
     "slug": "masf-fi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 521,
@@ -119,16 +119,18 @@
     "timeWeek": 604,
     "timeMonth": 540,
     "timeYear": 521,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-22": 1
+    }
   },
   {
     "name": "escobar.digital",
     "url": "https://escobar.digital",
     "icon": "https://icons.duckduckgo.com/ip3/escobar.digital.ico",
     "slug": "escobar-digital",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -137,7 +139,9 @@
     "timeWeek": 596,
     "timeMonth": 608,
     "timeYear": 599,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-22": 0
+    }
   },
   {
     "name": "Google",
