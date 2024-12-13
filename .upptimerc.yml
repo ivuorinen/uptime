@@ -14,8 +14,6 @@ sites:
     url: https://antiprocess.net
   - name: "demons: paimon"
     url: https://paimon.antiprocess.net
-  - name: "demons: vine"
-    url: https://vine.antiprocess.net
   - name: masf.fi
     url: https://masf.fi
   - name: escobar.digital
@@ -25,9 +23,6 @@ sites:
     icon: https://www.google.com/favicon.ico
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: ivuorinen.net
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
