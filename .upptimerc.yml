@@ -1,6 +1,7 @@
 # Change these first
 owner: ivuorinen # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
+user-agent: ivuorinen
 
 assignees: # Users to assign downtime issues (optional)
   - ivuorinen
@@ -14,6 +15,8 @@ sites:
     url: https://antiprocess.net
   - name: "demons: paimon"
     url: https://paimon.antiprocess.net
+  - name: "demons: baal"
+    url: https://baal.antiprocess.net
   - name: masf.fi
     url: https://masf.fi
   - name: escobar.digital
@@ -33,6 +36,12 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  metaTags:
+    - name: "color-scheme"
+      content: "dark light"
+    - name: "robots"
+      content: "noindex"
+  robotsText: "User-agent: * \n Disallow: /"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
