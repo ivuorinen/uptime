@@ -67,7 +67,7 @@
     "timeMonth": 564,
     "timeYear": 992,
     "dailyMinutesDown": {
-      "2025-04-30": 453,
+      "2025-04-30": 460,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
       "2025-04-27": 1440,
@@ -259,19 +259,19 @@
     "url": "https://www.google.com",
     "icon": "https://www.google.com/favicon.ico",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 302,
-    "timeWeek": 141,
+    "timeDay": 228,
+    "timeWeek": 135,
     "timeMonth": 110,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2025-04-30": 0
+      "2025-04-30": 7
     }
   }
 ]
