@@ -67,7 +67,7 @@
     "timeMonth": 568,
     "timeYear": 983,
     "dailyMinutesDown": {
-      "2025-05-07": 711,
+      "2025-05-07": 717,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
@@ -266,19 +266,19 @@
     "url": "https://www.google.com",
     "icon": "https://www.google.com/favicon.ico",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 112,
-    "timeDay": 374,
-    "timeWeek": 201,
-    "timeMonth": 131,
+    "timeDay": 281,
+    "timeWeek": 190,
+    "timeMonth": 130,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2025-05-07": 0
+      "2025-05-07": 6
     }
   }
 ]
