@@ -275,19 +275,19 @@
     "url": "https://www.google.com",
     "icon": "https://www.google.com/favicon.ico",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 112,
-    "timeDay": 253,
-    "timeWeek": 135,
+    "timeDay": 201,
+    "timeWeek": 130,
     "timeMonth": 115,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2025-06-29": 0
+      "2025-06-29": 6
     }
   }
 ]
