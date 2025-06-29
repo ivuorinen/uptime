@@ -56,11 +56,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/antiprocess.net.ico",
     "slug": "antiprocess-net",
     "status": "up",
-    "uptime": "53.70%",
+    "uptime": "53.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "53.70%",
+    "uptimeYear": "53.80%",
     "time": 910,
     "timeDay": 584,
     "timeWeek": 483,
@@ -275,17 +275,19 @@
     "url": "https://www.google.com",
     "icon": "https://www.google.com/favicon.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 111,
-    "timeDay": 99,
-    "timeWeek": 96,
-    "timeMonth": 107,
-    "timeYear": 111,
-    "dailyMinutesDown": {}
+    "time": 112,
+    "timeDay": 253,
+    "timeWeek": 135,
+    "timeMonth": 115,
+    "timeYear": 112,
+    "dailyMinutesDown": {
+      "2025-06-29": 0
+    }
   }
 ]
