@@ -28,7 +28,7 @@ jobs:
     if: "!contains(github.event.head_commit.message, '[skip ci]')"
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5
         with:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT || github.token }}
