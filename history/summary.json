@@ -58,18 +58,19 @@
     "url": "https://antiprocess.net",
     "icon": "https://icons.duckduckgo.com/ip3/antiprocess.net.ico",
     "slug": "antiprocess-net",
-    "status": "up",
-    "uptime": "67.43%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "67.49%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "67.43%",
+    "uptimeYear": "67.49%",
     "time": 810,
     "timeDay": 473,
     "timeWeek": 482,
     "timeMonth": 488,
     "timeYear": 810,
     "dailyMinutesDown": {
+      "2025-10-14": 1,
       "2025-05-16": 296,
       "2025-05-15": 1440,
       "2025-05-14": 1440,
@@ -201,9 +202,9 @@
     "url": "https://paimon.antiprocess.net",
     "icon": "https://icons.duckduckgo.com/ip3/paimon.antiprocess.net.ico",
     "slug": "demons-paimon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
@@ -213,6 +214,7 @@
     "timeMonth": 502,
     "timeYear": 497,
     "dailyMinutesDown": {
+      "2025-10-14": 0,
       "2025-02-01": 583,
       "2024-12-20": 45
     }
@@ -222,9 +224,9 @@
     "url": "https://baal.antiprocess.net",
     "icon": "https://icons.duckduckgo.com/ip3/baal.antiprocess.net.ico",
     "slug": "demons-baal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
@@ -234,6 +236,7 @@
     "timeMonth": 495,
     "timeYear": 487,
     "dailyMinutesDown": {
+      "2025-10-14": 0,
       "2025-02-01": 582
     }
   },
