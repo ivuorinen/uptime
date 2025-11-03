@@ -56,7 +56,7 @@
     "uptime": "63.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "33.54%",
+    "uptimeMonth": "33.53%",
     "uptimeYear": "62.43%",
     "time": 810,
     "timeDay": 0,
@@ -64,7 +64,7 @@
     "timeMonth": 493,
     "timeYear": 652,
     "dailyMinutesDown": {
-      "2025-11-03": 1242,
+      "2025-11-03": 1248,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
@@ -214,7 +214,7 @@
     "uptime": "94.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "33.54%",
+    "uptimeMonth": "33.53%",
     "uptimeYear": "94.34%",
     "time": 497,
     "timeDay": 0,
@@ -222,7 +222,7 @@
     "timeMonth": 504,
     "timeYear": 490,
     "dailyMinutesDown": {
-      "2025-11-03": 1242,
+      "2025-11-03": 1249,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
@@ -309,19 +309,19 @@
     "url": "https://www.google.com",
     "icon": "https://www.google.com/favicon.ico",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 234,
-    "timeWeek": 136,
-    "timeMonth": 124,
+    "timeDay": 217,
+    "timeWeek": 142,
+    "timeMonth": 126,
     "timeYear": 111,
     "dailyMinutesDown": {
-      "2025-11-03": 0
+      "2025-11-03": 7
     }
   }
 ]
