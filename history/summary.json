@@ -58,14 +58,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "51.49%",
+    "uptimeYear": "51.48%",
     "time": 803,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 601,
     "dailyMinutesDown": {
-      "2025-12-13": 1167,
+      "2025-12-13": 1174,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
@@ -263,7 +263,7 @@
     "timeMonth": 0,
     "timeYear": 490,
     "dailyMinutesDown": {
-      "2025-12-13": 1167,
+      "2025-12-13": 1174,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
@@ -390,19 +390,19 @@
     "url": "https://www.google.com",
     "icon": "https://www.google.com/favicon.ico",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 120,
-    "timeDay": 215,
-    "timeWeek": 122,
-    "timeMonth": 249,
+    "timeDay": 182,
+    "timeWeek": 121,
+    "timeMonth": 245,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2025-12-13": 0
+      "2025-12-13": 7
     }
   }
 ]
