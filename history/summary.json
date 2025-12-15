@@ -65,7 +65,7 @@
     "timeMonth": 0,
     "timeYear": 598,
     "dailyMinutesDown": {
-      "2025-12-15": 479,
+      "2025-12-15": 494,
       "2025-12-14": 1440,
       "2025-12-13": 1440,
       "2025-12-12": 1440,
@@ -254,7 +254,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/paimon.antiprocess.net.ico",
     "slug": "demons-paimon",
     "status": "down",
-    "uptime": "85.32%",
+    "uptime": "85.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -265,7 +265,7 @@
     "timeMonth": 0,
     "timeYear": 490,
     "dailyMinutesDown": {
-      "2025-12-15": 479,
+      "2025-12-15": 494,
       "2025-12-14": 1440,
       "2025-12-13": 1440,
       "2025-12-12": 1440,
@@ -394,19 +394,19 @@
     "url": "https://www.google.com",
     "icon": "https://www.google.com/favicon.ico",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 121,
-    "timeDay": 286,
-    "timeWeek": 164,
-    "timeMonth": 253,
+    "timeDay": 230,
+    "timeWeek": 160,
+    "timeMonth": 249,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2025-12-15": 0
+      "2025-12-15": 15
     }
   }
 ]
