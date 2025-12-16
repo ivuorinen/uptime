@@ -65,7 +65,7 @@
     "timeMonth": 0,
     "timeYear": 596,
     "dailyMinutesDown": {
-      "2025-12-16": 502,
+      "2025-12-16": 519,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
       "2025-12-13": 1440,
@@ -266,7 +266,7 @@
     "timeMonth": 0,
     "timeYear": 489,
     "dailyMinutesDown": {
-      "2025-12-16": 502,
+      "2025-12-16": 519,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
       "2025-12-13": 1440,
@@ -396,19 +396,19 @@
     "url": "https://www.google.com",
     "icon": "https://www.google.com/favicon.ico",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 121,
-    "timeDay": 300,
-    "timeWeek": 188,
-    "timeMonth": 201,
+    "timeDay": 226,
+    "timeWeek": 179,
+    "timeMonth": 198,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2025-12-16": 0,
+      "2025-12-16": 17,
       "2025-12-15": 15
     }
   }
