@@ -22,17 +22,17 @@
     "url": "https://ivuorinen.com",
     "icon": "https://icons.duckduckgo.com/ip3/ivuorinen.com.ico",
     "slug": "ivuorinen-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.74%",
-    "time": 2191,
-    "timeDay": 26886,
-    "timeWeek": 16603,
-    "timeMonth": 9088,
-    "timeYear": 2509,
+    "time": 2225,
+    "timeDay": 26117,
+    "timeWeek": 16780,
+    "timeMonth": 9310,
+    "timeYear": 2548,
     "dailyMinutesDown": {
       "2025-11-18": 109,
       "2026-01-31": 55,
@@ -59,7 +59,7 @@
       "2026-06-12": 81,
       "2026-08-24": 20,
       "2026-09-14": 20,
-      "2026-09-19": 1
+      "2026-09-19": 10
     }
   },
   {
@@ -79,7 +79,7 @@
     "timeMonth": 0,
     "timeYear": 499,
     "dailyMinutesDown": {
-      "2026-09-19": 1302,
+      "2026-09-19": 1312,
       "2026-09-18": 1440,
       "2026-09-17": 1440,
       "2026-09-16": 1440,
@@ -439,7 +439,7 @@
     "timeMonth": 0,
     "timeYear": 510,
     "dailyMinutesDown": {
-      "2026-09-19": 1302,
+      "2026-09-19": 1312,
       "2026-09-18": 1440,
       "2026-09-17": 1440,
       "2026-09-16": 1440,
