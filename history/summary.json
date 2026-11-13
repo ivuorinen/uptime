@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 148,
-    "timeDay": 183,
-    "timeWeek": 133,
-    "timeMonth": 128,
+    "time": 149,
+    "timeDay": 115,
+    "timeWeek": 137,
+    "timeMonth": 126,
     "timeYear": 148,
     "dailyMinutesDown": {}
   },
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ivuorinen.com.ico",
     "slug": "ivuorinen-com",
     "status": "up",
-    "uptime": "99.34%",
+    "uptime": "99.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.33%",
     "uptimeYear": "99.68%",
     "time": 2673,
-    "timeDay": 933,
-    "timeWeek": 895,
+    "timeDay": 854,
+    "timeWeek": 919,
     "timeMonth": 815,
-    "timeYear": 2937,
+    "timeYear": 2935,
     "dailyMinutesDown": {
       "2025-11-18": 109,
       "2026-01-31": 55,
@@ -68,7 +68,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/antiprocess.net.ico",
     "slug": "antiprocess-net",
     "status": "down",
-    "uptime": "32.31%",
+    "uptime": "32.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -79,7 +79,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-12": 8,
+      "2026-11-13": 8,
+      "2026-11-12": 1440,
       "2026-11-11": 1440,
       "2026-11-10": 1440,
       "2026-11-09": 1440,
@@ -442,8 +443,7 @@
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
-      "2025-11-14": 1440,
-      "2025-11-13": 1440
+      "2025-11-14": 1440
     }
   },
   {
@@ -452,7 +452,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/paimon.antiprocess.net.ico",
     "slug": "demons-paimon",
     "status": "down",
-    "uptime": "47.82%",
+    "uptime": "47.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -463,7 +463,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-12": 8,
+      "2026-11-13": 8,
+      "2026-11-12": 1440,
       "2026-11-11": 1440,
       "2026-11-10": 1440,
       "2026-11-09": 1440,
@@ -826,8 +827,7 @@
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
-      "2025-11-14": 1440,
-      "2025-11-13": 1440
+      "2025-11-14": 1440
     }
   },
   {
@@ -841,11 +841,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 958,
-    "timeDay": 1622,
-    "timeWeek": 1423,
-    "timeMonth": 1406,
-    "timeYear": 1099,
+    "time": 959,
+    "timeDay": 1301,
+    "timeWeek": 1440,
+    "timeMonth": 1399,
+    "timeYear": 1101,
     "dailyMinutesDown": {
       "2026-01-15": 57,
       "2026-01-25": 19,
@@ -867,10 +867,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 740,
-    "timeDay": 714,
-    "timeWeek": 698,
-    "timeMonth": 699,
-    "timeYear": 761,
+    "timeDay": 708,
+    "timeWeek": 731,
+    "timeMonth": 693,
+    "timeYear": 760,
     "dailyMinutesDown": {
       "2026-07-29": 24
     }
@@ -887,10 +887,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 844,
-    "timeDay": 894,
-    "timeWeek": 852,
-    "timeMonth": 809,
-    "timeYear": 845,
+    "timeDay": 694,
+    "timeWeek": 870,
+    "timeMonth": 794,
+    "timeYear": 844,
     "dailyMinutesDown": {
       "2026-07-29": 19
     }
@@ -907,9 +907,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 137,
-    "timeDay": 96,
-    "timeWeek": 98,
-    "timeMonth": 89,
+    "timeDay": 116,
+    "timeWeek": 106,
+    "timeMonth": 91,
     "timeYear": 146,
     "dailyMinutesDown": {
       "2025-12-15": 15,
