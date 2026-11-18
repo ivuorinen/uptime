@@ -78,7 +78,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-18": 1064,
+      "2026-11-18": 1070,
       "2026-11-17": 1440,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
@@ -462,7 +462,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-18": 1064,
+      "2026-11-18": 1070,
       "2026-11-17": 1440,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
@@ -899,16 +899,16 @@
     "url": "https://www.google.com",
     "icon": "https://www.google.com/favicon.ico",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
     "time": 136,
-    "timeDay": 244,
-    "timeWeek": 196,
-    "timeMonth": 135,
+    "timeDay": 225,
+    "timeWeek": 190,
+    "timeMonth": 133,
     "timeYear": 144,
     "dailyMinutesDown": {
       "2025-12-15": 15,
@@ -920,7 +920,7 @@
       "2026-07-09": 67,
       "2026-08-18": 18,
       "2026-11-16": 19,
-      "2026-11-18": 0
+      "2026-11-18": 6
     }
   }
 ]
