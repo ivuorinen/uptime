@@ -31,7 +31,7 @@
     "time": 2667,
     "timeDay": 948,
     "timeWeek": 835,
-    "timeMonth": 811,
+    "timeMonth": 827,
     "timeYear": 2974,
     "dailyMinutesDown": {
       "2026-01-31": 55,
@@ -67,7 +67,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/antiprocess.net.ico",
     "slug": "antiprocess-net",
     "status": "down",
-    "uptime": "31.89%",
+    "uptime": "31.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -78,7 +78,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-22": 8,
+      "2026-11-22": 612,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
       "2026-11-19": 1440,
@@ -451,7 +451,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/paimon.antiprocess.net.ico",
     "slug": "demons-paimon",
     "status": "down",
-    "uptime": "47.20%",
+    "uptime": "47.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -462,7 +462,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-22": 8,
+      "2026-11-22": 612,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
       "2026-11-19": 1440,
@@ -899,17 +899,17 @@
     "url": "https://www.google.com",
     "icon": "https://www.google.com/favicon.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.64%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.63%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.94%",
-    "time": 142,
-    "timeDay": 229,
-    "timeWeek": 211,
-    "timeMonth": 175,
-    "timeYear": 150,
+    "time": 143,
+    "timeDay": 228,
+    "timeWeek": 214,
+    "timeMonth": 178,
+    "timeYear": 151,
     "dailyMinutesDown": {
       "2025-12-15": 15,
       "2025-12-16": 17,
@@ -920,7 +920,8 @@
       "2026-07-09": 67,
       "2026-08-18": 18,
       "2026-11-16": 19,
-      "2026-11-19": 17
+      "2026-11-19": 17,
+      "2026-11-22": 0
     }
   }
 ]
