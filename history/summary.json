@@ -78,7 +78,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-22": 617,
+      "2026-11-22": 773,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
       "2026-11-19": 1440,
@@ -451,7 +451,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/paimon.antiprocess.net.ico",
     "slug": "demons-paimon",
     "status": "down",
-    "uptime": "47.17%",
+    "uptime": "47.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -462,7 +462,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-22": 617,
+      "2026-11-22": 773,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
       "2026-11-19": 1440,
@@ -835,7 +835,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/baal.antiprocess.net.ico",
     "slug": "demons-baal",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -899,16 +899,16 @@
     "url": "https://www.google.com",
     "icon": "https://www.google.com/favicon.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.94%",
     "time": 143,
-    "timeDay": 215,
+    "timeDay": 216,
     "timeWeek": 211,
-    "timeMonth": 177,
+    "timeMonth": 178,
     "timeYear": 151,
     "dailyMinutesDown": {
       "2025-12-15": 15,
@@ -921,7 +921,7 @@
       "2026-08-18": 18,
       "2026-11-16": 19,
       "2026-11-19": 17,
-      "2026-11-22": 6
+      "2026-11-22": 0
     }
   }
 ]
