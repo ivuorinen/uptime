@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 148,
-    "timeDay": 77,
-    "timeWeek": 131,
-    "timeMonth": 119,
+    "timeDay": 83,
+    "timeWeek": 121,
+    "timeMonth": 117,
     "timeYear": 146,
     "dailyMinutesDown": {}
   },
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.33%",
     "uptimeYear": "99.70%",
-    "time": 2621,
-    "timeDay": 719,
-    "timeWeek": 856,
-    "timeMonth": 836,
+    "time": 2618,
+    "timeDay": 721,
+    "timeWeek": 837,
+    "timeMonth": 829,
     "timeYear": 2975,
     "dailyMinutesDown": {
       "2026-01-31": 55,
@@ -67,18 +67,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/antiprocess.net.ico",
     "slug": "antiprocess-net",
     "status": "down",
-    "uptime": "31.80%",
+    "uptime": "31.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 493,
+    "time": 492,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-24": 216,
+      "2026-11-25": 8,
+      "2026-11-24": 1440,
       "2026-11-23": 1440,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
@@ -441,8 +442,7 @@
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
-      "2025-11-26": 1440,
-      "2025-11-25": 1440
+      "2025-11-26": 1440
     }
   },
   {
@@ -451,18 +451,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/paimon.antiprocess.net.ico",
     "slug": "demons-paimon",
     "status": "down",
-    "uptime": "47.06%",
+    "uptime": "47.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 499,
+    "time": 498,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-24": 216,
+      "2026-11-25": 8,
+      "2026-11-24": 1440,
       "2026-11-23": 1440,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
@@ -825,8 +826,7 @@
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
-      "2025-11-26": 1440,
-      "2025-11-25": 1440
+      "2025-11-26": 1440
     }
   },
   {
@@ -840,11 +840,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 984,
-    "timeDay": 1395,
-    "timeWeek": 1494,
-    "timeMonth": 1404,
-    "timeYear": 1123,
+    "time": 986,
+    "timeDay": 1177,
+    "timeWeek": 1464,
+    "timeMonth": 1400,
+    "timeYear": 1125,
     "dailyMinutesDown": {
       "2026-01-15": 57,
       "2026-01-25": 19,
@@ -866,10 +866,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 741,
-    "timeDay": 483,
-    "timeWeek": 592,
-    "timeMonth": 664,
-    "timeYear": 756,
+    "timeDay": 835,
+    "timeWeek": 622,
+    "timeMonth": 671,
+    "timeYear": 757,
     "dailyMinutesDown": {
       "2026-07-29": 24
     }
@@ -885,11 +885,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 842,
-    "timeDay": 578,
-    "timeWeek": 719,
-    "timeMonth": 756,
-    "timeYear": 833,
+    "time": 843,
+    "timeDay": 859,
+    "timeWeek": 737,
+    "timeMonth": 759,
+    "timeYear": 834,
     "dailyMinutesDown": {
       "2026-07-29": 19
     }
@@ -901,12 +901,12 @@
     "slug": "google",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.93%",
     "time": 145,
-    "timeDay": 193,
+    "timeDay": 202,
     "timeWeek": 211,
     "timeMonth": 183,
     "timeYear": 150,
@@ -921,8 +921,7 @@
       "2026-08-18": 18,
       "2026-11-16": 19,
       "2026-11-19": 17,
-      "2026-11-23": 17,
-      "2026-11-24": 7
+      "2026-11-23": 17
     }
   }
 ]
